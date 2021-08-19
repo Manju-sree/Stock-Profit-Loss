@@ -1,0 +1,28 @@
+body {
+    background-color: darkcyan;
+    text-align: center;
+    text-size-adjust: auto;
+}
+
+label {
+    display: block;
+    padding: 1rem;
+}
+
+input {
+    color: black;
+    width: 30%;
+}
+
+#submit-btn {
+    width: 10%;
+    padding: 0.5rem;
+    color: black;
+    background: transparent;
+    border-width: 0.3rem;
+}
+
+#output {
+    color: black;
+    padding-top: 3rem;
+}
